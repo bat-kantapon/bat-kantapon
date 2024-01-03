@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bat-kantapon
+- 👀 I’m interested in coding, mobile app dev, web app dev
+- 🌱 I’m currently learning abt Swift
